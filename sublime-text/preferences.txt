@@ -1,0 +1,14 @@
+{
+font_size: 21,
+color_scheme: Packages/Aura Theme Color Scheme/aura-theme-soft.tmTheme,
+font_face : CaskaydiaCove Nerd Font Mono,
+save_on_lost_focus : true,
+caret_style : phase,
+line_padding_top : 5,
+line_padding_bottom : 5,
+ignored_packages:
+[
+Vintage,
+],
+}
+
