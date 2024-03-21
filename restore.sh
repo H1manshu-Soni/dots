@@ -13,5 +13,5 @@ echo "windowrulev2 = float, class:^(org.gnome.clocks)$" >> $HOME/.config/hypr/wi
 
 
 #echo "windowrule = workspace 2, ^(.*Brave.*)$" >> $HOME/.config/hypr/windowrules.config
-echo "windowrule = workspace 2, ^(.*org.telegram.desktop.*)$" >> $HOME/.config/hypr/windowrules.conf
-echo "windowrule = workspace 3, ^(.*obsidian.*)$" >> $HOME/.config/hypr/windowrules.conf
+echo "windowrule = workspace 2 silen, ^(.*org.telegram.desktop.*)$" >> $HOME/.config/hypr/windowrules.conf
+echo "windowrule = workspace 3 silent, ^(.*obsidian.*)$" >> $HOME/.config/hypr/windowrules.conf
